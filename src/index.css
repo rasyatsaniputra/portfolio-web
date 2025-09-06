@@ -21,6 +21,10 @@ html {
   align-items: center;
   padding: 1em 2em;
   background-color: var(--primary-color);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 .navbar-container > ul > li,
