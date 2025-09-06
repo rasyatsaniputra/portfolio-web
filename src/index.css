@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+  color: #fff;
+}
+
+:root {
+  --primary-color: hsla(255, 55%, 15%, 1.00);
+  --secondary-color: hsla(50, 70%, 50%, 1.00)
+}
+
+html {
+  background-color: var(--primary-color);
+}
